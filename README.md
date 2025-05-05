@@ -34,9 +34,26 @@ Meu nome é Cauã Membribes de Lima, tenho 16 anos e estou no 2º ano do Ensino 
 />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.iconscout.com/icon/free/png-256/free-php-99-1175127.png?f=webp"
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://www.svgrepo.com/show/184143/java.svg" 
 />
+<img 
+    align="left" 
+    alt="Arduino" 
+    title="Arduino"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" 
+/>
+
