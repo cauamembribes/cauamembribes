@@ -9,7 +9,7 @@ Meu nome é Cauã Membribes de Lima, tenho 16 anos e estou no 2º ano do Ensino 
 
 <h3 align="left">Contato: </h3>
 
-<a href="mailto:cauamembribesdelima@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF"></a>
+<a href="youtube.com"><img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF"></a>
 
 <h3 align="left">Linguagens e Tecnologias </h3>
 
