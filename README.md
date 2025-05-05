@@ -1,6 +1,6 @@
 # 💻 Cauã Membribes
 
-Me chamo Cauã Membribes de Lima, tenho 16 anos e estou cursando o segundo ano do ensino médio na ETEC Vila Formosa, com o curso técnico em Desenvolvimento de Sistemas. 👨‍💻☕
+Meu nome é Cauã Membribes de Lima, tenho 16 anos e estou no 2º ano do Ensino Médio na ETEC Vila Formosa, onde curso o técnico em Desenvolvimento de Sistemas. Tenho grande interesse por tecnologia em geral e estou sempre disposto a aprender e compartilhar conhecimento. 👨‍💻☕
 
 ---
 
