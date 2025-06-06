@@ -4,7 +4,7 @@ Meu nome é Cauã Membribes de Lima, tenho 16 anos e estou no 2º ano do Ensino 
 
 ---
 
-<img src="https://lastfm.freetls.fastly.net/i/u/ar0/84f0a16d520f435494d0ead313005e62.jpg" width="200px" align="right">
+<img src="https://lastfm.freetls.fastly.net/i/u/ar0/84f0a16d520f435494d0ead313005e62.jpg" width="300px" align="right">
 
 <h3 align="left">Linguagens e Tecnologias </h3>
 
